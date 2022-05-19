@@ -14,6 +14,6 @@ model folder: Project1.ipynb has all the analysis of the problem
 Feel free to replace the data with recent survery results, and the conclusion may suprise you. 
 
 ## Licensing
-Feel free to cite the work as well if it is interesting for you. Cite as: H. Zhang, "How to make a programmer happy, seriously? ", 2022. 
+Feel free to cite the work as well if it is interesting for you. Cite as: H. Zhang, "How to make a programmer happy, seriously? ", 2022. https://medium.com/@zhhaop09/how-to-make-a-programmer-happy-seriously-557921890b33
 
 
